@@ -1,3 +1,3 @@
 # DSA
 
-very basic DSA in C++
+very basic implementation of data structures in C++
