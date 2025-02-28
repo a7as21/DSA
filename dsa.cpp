@@ -1,8 +1,8 @@
-#include "utility.h"
-#include "linkedlist.h"
-#include "heap.h"
-#include "graph.h"
-#include "utility.h"
+#include "header/utility.h"
+#include "header/linkedlist.h"
+#include "header/heap.h"
+#include "header/graph.h"
+#include "header/utility.h"
 
 using namespace std;
 
